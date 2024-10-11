@@ -1,1 +1,1 @@
-# koinx-backend-assignment
+This application is a server-side application built using Node.js and MongoDB. It fetches the current price, market cap, and 24-hour change for three cryptocurrencies (Bitcoin, Matic, and Ethereum) from the CoinGecko API and stores the data in a MongoDB database. It also provides APIs to retrieve the latest data and calculate the standard deviation of prices.
